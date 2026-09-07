@@ -11,7 +11,7 @@ The app runs fully offline against a simulated backend
 (`lib/service/fake_api_service.dart`) with realistic latency and intermittent
 failures — no API keys or accounts needed. See `README.md` for setup.
 
-Expected effort: **a weekend (~12–16 hours)**. You do not need to finish
+Deadline: One week. You do not need to finish
 everything — see [How we grade](#how-we-grade).
 
 ---
